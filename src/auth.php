@@ -1,6 +1,6 @@
 <?php
-$userName = "Hathsha"; //Your Username
-$apiKey = "3d2262901c77b5b88f3d"; //Your API Key
+$userName = "XXXXXX"; //Your Username
+$apiKey = "XXXXXXXXXXXXXXXXXX"; //Your API Key
 
 $data = array(
 	"user_name" => $userName,
