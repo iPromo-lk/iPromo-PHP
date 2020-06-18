@@ -7,7 +7,7 @@ $senderId = "economy"; //Your Sender ID
 //If you are using Economy Gateway, use "economy" as Sender Id
 //To test Premium Gateway, You can use "Demo" as Sender Id
 $counterCode = "94"; //Country Code
-$mobileNumber = "767223223"; //Mobile Number Without 0
+$mobileNumber = "767XXXXXX"; //Mobile Number Without 0
 $message = "Test Message"; //Your Message
 
 require __DIR__ . '/src/auth.php';
